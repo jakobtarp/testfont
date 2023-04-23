@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Jakob-Regular;
+  src: url(/Jakob-Regular.ttf);
+}
+
+.headline {
+  font-family: Myfont;
+  font-weight: bolder;
+}
